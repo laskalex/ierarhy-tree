@@ -52,5 +52,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')	{
 //test($result); 
 ?>
 <?
-//phpinfo(32);
+phpinfo(32);
 ?>
